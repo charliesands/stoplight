@@ -1,0 +1,9 @@
+.background {
+    background-color: gray;
+    height: 100vh;
+}
+.post {
+    width: 10vw;
+    height: 15vw;
+    background-color: black;
+}
